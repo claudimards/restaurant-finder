@@ -23,7 +23,8 @@ export const Search = styled.section`
 `;
 
 export const Logo = styled.img`
-  margin-bottom: 15px;
+  max-width: 166px;
+  margin: 0 auto 15px;
 `;
 
 export const Map = styled.div`
